@@ -1,0 +1,64 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2017,2017,PPP dollar per person per day,3.222,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2018,2018,PPP dollar per person per day,3.274,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2019,2019,PPP dollar per person per day,3.309,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2020,2020,PPP dollar per person per day,3.383,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2021,2021,PPP dollar per person per day,3.571,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7007,Cost of starchy staples,2017,2017,PPP dollar per person per day,0.52,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7008,Cost of animal source foods,2017,2017,PPP dollar per person per day,0.937,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7009,"Cost of legumes, nuts and seeds",2017,2017,PPP dollar per person per day,0.269,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7010,Cost of vegetables,2017,2017,PPP dollar per person per day,0.812,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7011,Cost of fruits,2017,2017,PPP dollar per person per day,0.564,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6226,Value,7012,Cost of oils and fats,2017,2017,PPP dollar per person per day,0.147,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2017,2017,%,78.5,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2018,2018,%,78,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2019,2019,%,77.4,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2020,2020,%,77.9,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2021,2021,%,77.5,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6132,Value,7006,Number of people unable to afford a healthy diet (million),2017,2017,million No,954.6,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6132,Value,7006,Number of people unable to afford a healthy diet (million),2018,2018,million No,973.4,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6132,Value,7006,Number of people unable to afford a healthy diet (million),2019,2019,million No,989.4,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6132,Value,7006,Number of people unable to afford a healthy diet (million),2020,2020,million No,1020.7,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2,Africa,6132,Value,7006,Number of people unable to afford a healthy diet (million),2021,2021,million No,1040.5,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2017,2017,PPP dollar per person per day,3.386,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2018,2018,PPP dollar per person per day,3.313,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2019,2019,PPP dollar per person per day,3.343,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2020,2020,PPP dollar per person per day,3.373,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2021,2021,PPP dollar per person per day,3.32,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7007,Cost of starchy staples,2017,2017,PPP dollar per person per day,0.611,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7008,Cost of animal source foods,2017,2017,PPP dollar per person per day,0.608,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7009,"Cost of legumes, nuts and seeds",2017,2017,PPP dollar per person per day,0.375,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7010,Cost of vegetables,2017,2017,PPP dollar per person per day,1.104,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7011,Cost of fruits,2017,2017,PPP dollar per person per day,0.587,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6226,Value,7012,Cost of oils and fats,2017,2017,PPP dollar per person per day,0.101,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2017,2017,%,1.9,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2018,2018,%,1.6,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2019,2019,%,1.4,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2020,2020,%,1.2,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2021,2021,%,1.1,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6132,Value,7006,Number of people unable to afford a healthy diet (million),2017,2017,million No,6.8,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6132,Value,7006,Number of people unable to afford a healthy diet (million),2018,2018,million No,6,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6132,Value,7006,Number of people unable to afford a healthy diet (million),2019,2019,million No,5.2,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6132,Value,7006,Number of people unable to afford a healthy diet (million),2020,2020,million No,4.4,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),21,Northern America,6132,Value,7006,Number of people unable to afford a healthy diet (million),2021,2021,million No,4.1,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2017,2017,PPP dollar per person per day,2.731,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2018,2018,PPP dollar per person per day,2.826,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2019,2019,PPP dollar per person per day,2.904,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2020,2020,PPP dollar per person per day,2.951,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7004,Cost of a healthy diet (PPP dollar per person per day),2021,2021,PPP dollar per person per day,2.951,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7007,Cost of starchy staples,2017,2017,PPP dollar per person per day,0.239,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7008,Cost of animal source foods,2017,2017,PPP dollar per person per day,0.658,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7009,"Cost of legumes, nuts and seeds",2017,2017,PPP dollar per person per day,0.299,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7010,Cost of vegetables,2017,2017,PPP dollar per person per day,0.743,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7011,Cost of fruits,2017,2017,PPP dollar per person per day,0.733,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6226,Value,7012,Cost of oils and fats,2017,2017,PPP dollar per person per day,0.058,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2017,2017,%,0.4,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2018,2018,%,0.2,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2019,2019,%,0.3,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2020,2020,%,0.3,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6121,Value,7005,Percentage of the population unable to afford a healthy diet (percent),2021,2021,%,0.2,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6132,Value,7006,Number of people unable to afford a healthy diet (million),2017,2017,million No,0.8,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6132,Value,7006,Number of people unable to afford a healthy diet (million),2018,2018,million No,0.4,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6132,Value,7006,Number of people unable to afford a healthy diet (million),2019,2019,million No,0.6,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6132,Value,7006,Number of people unable to afford a healthy diet (million),2020,2020,million No,0.6,E,Estimated value
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),155,Western Europe,6132,Value,7006,Number of people unable to afford a healthy diet (million),2021,2021,million No,0.4,E,Estimated value
